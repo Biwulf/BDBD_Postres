@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Postres DM.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Postres DM.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Postres DM.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Postres DM.cube",
+              "RelativeDocumentMoniker": "Cubos_Postres\\Postres DM.cube",
+              "ToolTip": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Postres DM.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Cubos_Postres\\Postres DM.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T00:44:45.315Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

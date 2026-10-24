@@ -6,10 +6,83 @@
     <Name>Cubos_Postres.database</Name>
     <FullPath>Cubos_Postres.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>Postres DM.cube</Name>
+      <FullPath>Postres DM.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Postres DM.partitions</Name>
+          <FullPath>Postres DM.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Dim Tipo Documento.dim</Name>
+      <FullPath>Dim Tipo Documento.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Empleado.dim</Name>
+      <FullPath>Dim Empleado.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Producto.dim</Name>
+      <FullPath>Dim Producto.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Metodo Pago.dim</Name>
+      <FullPath>Dim Metodo Pago.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Mesa.dim</Name>
+      <FullPath>Dim Mesa.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Tiempo.dim</Name>
+      <FullPath>Dim Tiempo.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Hora.dim</Name>
+      <FullPath>Dim Hora.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Proveedor.dim</Name>
+      <FullPath>Dim Proveedor.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
+  <DataSources>
+    <ProjectItem>
+      <Name>Postres DM.ds</Name>
+      <FullPath>Postres DM.ds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Postres DM.dsv</Name>
+      <FullPath>Postres DM.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
-      <Options />
+      <Options>
+        <ConnectionMappings>
+          <ConfigurationSetting>
+            <Id>Postres DM</Id>
+            <Name>Postres DM</Name>
+            <Value xsi:type="xsd:string">Provider=MSOLEDBSQL.1;Data Source=(localdb)\MSSQLLocalDB;Integrated Security=SSPI;Initial Catalog=PostresDM</Value>
+          </ConfigurationSetting>
+        </ConnectionMappings>
+        <ConnectionSecurityMappings>
+          <ConfigurationSetting>
+            <Id>Postres DM</Id>
+            <Name>Postres DM</Name>
+            <Value xsi:type="xsd:int">0</Value>
+          </ConfigurationSetting>
+        </ConnectionSecurityMappings>
+      </Options>
     </Configuration>
   </Configurations>
 </Project>
