@@ -40,21 +40,21 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>kiLibR12TWWXljW2yfcFEuejcM4=24/10/2026 00:45:0924/10/2026 00:37:29</TimeStamp>
+        <TimeStamp>aX5q+wkN+coHdTRPBH29MspUlQM=24/10/2026 05:30:5024/10/2026 00:37:29</TimeStamp>
         <ID>
           <String>Dim Empleado</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>/gkRXM+y+NDLXchaLLQfgfl5jM0=24/10/2026 00:45:0924/10/2026 00:37:29</TimeStamp>
+        <TimeStamp>cIc37zx1Q2ZLWA5c4UaVmEhK9tA=24/10/2026 05:25:0724/10/2026 00:37:29</TimeStamp>
         <ID>
           <String>Dim Producto</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>MVMvPYFp3q+f/KqjT0kGn848jp8=24/10/2026 00:45:0924/10/2026 00:37:29</TimeStamp>
+        <TimeStamp>R+0+ihzKgFC0RitmVMZHEA9pwx8=24/10/2026 05:31:2224/10/2026 00:37:29</TimeStamp>
         <ID>
           <String>Dim Metodo Pago</String>
         </ID>
@@ -82,14 +82,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>00/pQ1fPuLnJRR9M3jiJJn+e4Ow=24/10/2026 00:45:0924/10/2026 00:37:29</TimeStamp>
+        <TimeStamp>L80CSYkQMPmS8FlPSu5N8T60fts=24/10/2026 05:28:2124/10/2026 00:37:29</TimeStamp>
         <ID>
           <String>Dim Proveedor</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>uiwlqSQwRLWS+JNHNjHkzaUG6ZY=24/10/2026 04:51:5724/10/2026 00:45:09ULLXxtWGrHZiqtfLIPFCghAL+CA=24/10/2026 00:45:0924/10/2026 00:45:09</TimeStamp>
+        <TimeStamp>5VCMT3U4kIkXAKN92YrfoXDuuyM=24/10/2026 05:30:5024/10/2026 00:45:09ULLXxtWGrHZiqtfLIPFCghAL+CA=24/10/2026 00:45:0924/10/2026 00:45:09</TimeStamp>
         <ID>
           <String>Postres DM</String>
         </ID>
@@ -106,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2026-10-24T09:56:50.816667Z</LastDeployed>
+  <LastDeployed>2026-10-24T10:31:34.146667Z</LastDeployed>
 </DeploymentSnapshot>

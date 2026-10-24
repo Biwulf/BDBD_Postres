@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Metodo Pago.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Dim Metodo Pago.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Empleado.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Dim Empleado.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Downloads\\ETL_Postres\\por si acaso\\Postres DM.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F20A03F1-11E0-8723-9F06-D55061976015}|Cubos_Postres\\Cubos_Postres.dwproj|solutionrelative:Cubos_Postres\\Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,19 +37,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Metodo Pago.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Metodo Pago.dim",
+              "RelativeDocumentMoniker": "Cubos_Postres\\Dim Metodo Pago.dim",
+              "ToolTip": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Metodo Pago.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Cubos_Postres\\Dim Metodo Pago.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T10:29:31.142Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dim Empleado.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Empleado.dim",
+              "RelativeDocumentMoniker": "Cubos_Postres\\Dim Empleado.dim",
+              "ToolTip": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Empleado.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Cubos_Postres\\Dim Empleado.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T10:24:19.382Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Producto.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Producto.dim",
+              "RelativeDocumentMoniker": "Cubos_Postres\\Dim Producto.dim",
+              "ToolTip": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Producto.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Cubos_Postres\\Dim Producto.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T10:18:36.647Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Postres DM.cube [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Downloads\\ETL_Postres\\por si acaso\\Postres DM.cube",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\ETL_Postres\\por si acaso\\Postres DM.cube",
               "ToolTip": "C:\\Users\\JOSE LUIS\\Downloads\\ETL_Postres\\por si acaso\\Postres DM.cube [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\ETL_Postres\\por si acaso\\Postres DM.cube [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-24T08:32:31.609Z",
+              "WhenOpened": "2026-10-24T10:18:32.663Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Dim Tiempo.dim [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JOSE LUIS\\Documents\\GitHub\\BDBD_Postres\\ETL_Postres\\Cubos_Postres\\Cubos_Postres\\Dim Tiempo.dim",
               "RelativeDocumentMoniker": "Cubos_Postres\\Dim Tiempo.dim",
