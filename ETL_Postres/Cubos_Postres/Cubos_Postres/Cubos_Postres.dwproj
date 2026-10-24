@@ -72,7 +72,7 @@
           <ConfigurationSetting>
             <Id>Postres DM</Id>
             <Name>Postres DM</Name>
-            <Value xsi:type="xsd:string">Provider=MSOLEDBSQL.1;Data Source=(localdb)\MSSQLLocalDB;Integrated Security=SSPI;Initial Catalog=PostresDM</Value>
+            <Value xsi:type="xsd:string">Provider=MSOLEDBSQL.1;Data Source=DESKTOP-53GBULM\SSAS_EVAL;Integrated Security=SSPI;Initial Catalog=PostresDM</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
@@ -82,6 +82,7 @@
             <Value xsi:type="xsd:int">0</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>
+        <DeploymentServerEdition>Evaluation</DeploymentServerEdition>
       </Options>
     </Configuration>
   </Configurations>

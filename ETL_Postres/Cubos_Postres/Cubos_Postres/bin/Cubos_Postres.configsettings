@@ -3,9 +3,9 @@
     <DataSources>
       <DataSource>
         <ID>Postres DM</ID>
-        <ConnectionString>Provider=MSOLEDBSQL.1;Data Source=(localdb)\MSSQLLocalDB;Integrated Security=SSPI;Initial Catalog=PostresDM</ConnectionString>
+        <ConnectionString>Provider=MSOLEDBSQL.1;Data Source=DESKTOP-53GBULM\SSAS_EVAL;Integrated Security=SSPI;Initial Catalog=PostresDM</ConnectionString>
         <ImpersonationInfo>
-          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateCurrentUser</ImpersonationMode>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
           <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
         </ImpersonationInfo>
       </DataSource>

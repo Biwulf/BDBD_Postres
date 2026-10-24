@@ -1,56 +1,56 @@
 ﻿<Infos>
   <Item name="Postres DM.ds">
-    <Time>639283807920893552</Time>
+    <Time>639284068959682976</Time>
     <Hash length="20">
-      <b>195</b>
-      <b>91</b>
-      <b>57</b>
-      <b>122</b>
-      <b>38</b>
-      <b>250</b>
-      <b>38</b>
-      <b>32</b>
-      <b>106</b>
-      <b>76</b>
-      <b>183</b>
-      <b>200</b>
-      <b>223</b>
-      <b>43</b>
-      <b>78</b>
-      <b>217</b>
-      <b>74</b>
-      <b>16</b>
-      <b>34</b>
-      <b>247</b>
+      <b>153</b>
+      <b>224</b>
+      <b>29</b>
+      <b>134</b>
+      <b>240</b>
+      <b>245</b>
+      <b>67</b>
+      <b>80</b>
+      <b>36</b>
+      <b>141</b>
+      <b>189</b>
+      <b>50</b>
+      <b>152</b>
+      <b>65</b>
+      <b>31</b>
+      <b>166</b>
+      <b>211</b>
+      <b>208</b>
+      <b>67</b>
+      <b>242</b>
     </Hash>
   </Item>
   <Item name="Dim Tiempo.dim">
-    <Time>639283814852454258</Time>
+    <Time>639284138547423705</Time>
     <Hash length="20">
-      <b>192</b>
-      <b>224</b>
-      <b>253</b>
-      <b>116</b>
-      <b>190</b>
-      <b>94</b>
-      <b>26</b>
-      <b>155</b>
+      <b>151</b>
+      <b>47</b>
+      <b>131</b>
+      <b>70</b>
+      <b>87</b>
+      <b>185</b>
+      <b>107</b>
+      <b>165</b>
+      <b>22</b>
+      <b>135</b>
       <b>71</b>
-      <b>203</b>
-      <b>138</b>
-      <b>141</b>
-      <b>82</b>
-      <b>77</b>
-      <b>182</b>
-      <b>191</b>
-      <b>17</b>
-      <b>130</b>
-      <b>211</b>
-      <b>121</b>
+      <b>139</b>
+      <b>5</b>
+      <b>179</b>
+      <b>194</b>
+      <b>61</b>
+      <b>98</b>
+      <b>94</b>
+      <b>94</b>
+      <b>254</b>
     </Hash>
   </Item>
   <Item name="Postres DM.partitions">
-    <Time>639283814851624279</Time>
+    <Time>639283995090661899</Time>
     <Hash length="20">
       <b>80</b>
       <b>178</b>
@@ -99,33 +99,8 @@
       <b>41</b>
     </Hash>
   </Item>
-  <Item name="Dim Producto.dim">
-    <Time>639283814852244635</Time>
-    <Hash length="20">
-      <b>254</b>
-      <b>9</b>
-      <b>17</b>
-      <b>92</b>
-      <b>207</b>
-      <b>178</b>
-      <b>248</b>
-      <b>208</b>
-      <b>203</b>
-      <b>93</b>
-      <b>200</b>
-      <b>90</b>
-      <b>44</b>
-      <b>180</b>
-      <b>31</b>
-      <b>129</b>
-      <b>249</b>
-      <b>121</b>
-      <b>140</b>
-      <b>205</b>
-    </Hash>
-  </Item>
   <Item name="Dim Mesa.dim">
-    <Time>639283814852377963</Time>
+    <Time>639283995090608481</Time>
     <Hash length="20">
       <b>42</b>
       <b>122</b>
@@ -149,8 +124,33 @@
       <b>214</b>
     </Hash>
   </Item>
+  <Item name="Dim Producto.dim">
+    <Time>639283995090618545</Time>
+    <Hash length="20">
+      <b>254</b>
+      <b>9</b>
+      <b>17</b>
+      <b>92</b>
+      <b>207</b>
+      <b>178</b>
+      <b>248</b>
+      <b>208</b>
+      <b>203</b>
+      <b>93</b>
+      <b>200</b>
+      <b>90</b>
+      <b>44</b>
+      <b>180</b>
+      <b>31</b>
+      <b>129</b>
+      <b>249</b>
+      <b>121</b>
+      <b>140</b>
+      <b>205</b>
+    </Hash>
+  </Item>
   <Item name="Dim Metodo Pago.dim">
-    <Time>639283814852314910</Time>
+    <Time>639283995090618545</Time>
     <Hash length="20">
       <b>49</b>
       <b>83</b>
@@ -175,32 +175,32 @@
     </Hash>
   </Item>
   <Item name="Postres DM.cube">
-    <Time>639283814852705823</Time>
+    <Time>639284143177122027</Time>
     <Hash length="20">
-      <b>25</b>
-      <b>144</b>
-      <b>156</b>
-      <b>65</b>
-      <b>247</b>
-      <b>105</b>
+      <b>186</b>
+      <b>44</b>
+      <b>37</b>
+      <b>169</b>
+      <b>36</b>
+      <b>48</b>
+      <b>68</b>
+      <b>181</b>
+      <b>146</b>
+      <b>248</b>
+      <b>147</b>
+      <b>71</b>
+      <b>54</b>
+      <b>49</b>
       <b>228</b>
-      <b>1</b>
-      <b>231</b>
-      <b>143</b>
-      <b>103</b>
-      <b>176</b>
-      <b>1</b>
-      <b>237</b>
-      <b>216</b>
-      <b>145</b>
-      <b>167</b>
-      <b>41</b>
-      <b>77</b>
-      <b>209</b>
+      <b>205</b>
+      <b>165</b>
+      <b>6</b>
+      <b>233</b>
+      <b>150</b>
     </Hash>
   </Item>
   <Item name="Dim Empleado.dim">
-    <Time>639283814852173785</Time>
+    <Time>639283995090598012</Time>
     <Hash length="20">
       <b>146</b>
       <b>34</b>
@@ -225,7 +225,7 @@
     </Hash>
   </Item>
   <Item name="Dim Tipo Documento.dim">
-    <Time>639283814851111743</Time>
+    <Time>639283995090638607</Time>
     <Hash length="20">
       <b>206</b>
       <b>171</b>
@@ -250,7 +250,7 @@
     </Hash>
   </Item>
   <Item name="Postres DM.dsv">
-    <Time>639283814851297024</Time>
+    <Time>639284090921188115</Time>
     <Hash length="20">
       <b>61</b>
       <b>72</b>
@@ -275,7 +275,7 @@
     </Hash>
   </Item>
   <Item name="Dim Proveedor.dim">
-    <Time>639283814852584108</Time>
+    <Time>639283995090628621</Time>
     <Hash length="20">
       <b>211</b>
       <b>79</b>
@@ -300,7 +300,7 @@
     </Hash>
   </Item>
   <Item name="Dim Hora.dim">
-    <Time>639283814852516538</Time>
+    <Time>639283995090608481</Time>
     <Hash length="20">
       <b>241</b>
       <b>104</b>
